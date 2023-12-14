@@ -1,0 +1,13 @@
+//Created by Carel Habsian Osagi (23343061) Informatika'23
+#include <stdio.h>
+
+void main(){
+	
+	int jawaban;
+	
+	printf("Berapakah hasil 3 + 4\n");
+	printf("jawab : ");
+	scanf("%d",&jawaban);
+	
+	printf("Jawaban anda : %s\n", (jawaban==7)? "Benar" : "Salah");
+}
