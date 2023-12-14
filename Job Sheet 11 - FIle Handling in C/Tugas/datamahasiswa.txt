@@ -1,0 +1,12 @@
+Mahasiswa ke-1
+Nama	: Carel Habsian Osagi
+NIM	: 23343061
+Jurusan	: Elektronika
+Program Studi	: Informatika
+
+Mahasiswa ke-2
+Nama	: Carel Osagi
+NIM	: 23343081
+Jurusan	: Elektronika
+Program Studi	: Informatics
+
